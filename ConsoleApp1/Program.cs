@@ -94,6 +94,7 @@ namespace Excercise_1
             }
 
             missionList.Add(mission2);
+
             missionList.Add(mission1);
             missionList.Add(mission3);
             missionList.Add(mission5);
